@@ -2,4 +2,8 @@
 <center>
 
 # ZexDev4 
-- Programming language `Python`
+ Hi, my name is Zex, I am a programmer and I am 17 years old 
+ <p align="center">
+  <a href="https://github.com/ZexDev4"><img src="https://img.shields.io/github/followers/ZexDev4?label=followers&style=social"/></a>
+  </a>
+</p>
